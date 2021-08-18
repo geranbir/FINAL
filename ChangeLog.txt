@@ -1,0 +1,166 @@
+CLASE 14
+
+1- Se crea repositorio GIT.-
+
+CLASE 13
+
+
+1- Se agrega "meta description" al index.-
+
+2- Se agrega keywords al index.-
+
+3- Se comprimen todas las imágenes de index y subpáginas.-
+
+4- Se agrega "meta description" al "productos".-
+
+5- Se agrega keywords al "productos".-
+
+6- Se agrega "meta description" al "servicios".-
+
+7- Se agrega keywords al "servicios".-
+
+8- Se agrega "meta description" al "contacto".-
+
+9- Se agrega keywords al "contacto".-
+
+10- Se crea Archivo .gitignore y se agrega "node_modules"
+
+11- Todos los títulos fueron cambiados para la entrega anterior.
+
+
+CLASE 12
+
+1- Se edita las cards de bootstrap de la page "Servicios" (se cambia el tamaño de la imagen y color de boton con hover).-
+
+2- Se Cambia el titulo original (se reduce el tamaño porque estaba gigante).-
+
+3- Se agrega a page "Servicios" Título, header y footer igual a las demás páginas.-
+
+4- Se crea mixin simple que se aplica al título y texto de la page "Quienes Somos".-
+
+5- Se inicia diseño de la página "Contacto".-
+
+6- Se titula todos los head de las distintas "pages".-
+
+
+CLASE 11 
+
+1- Footer con redes sociales y copyright.-
+
+2- Se lleva a otras páginas el estilo principal.-
+
+3- Se agrega contenido a la página productos (se va a expandir mas el grid con variedad) todo responsive.-
+
+4- Se agrega acordión (boostrap) en "FAQ" y se edita cantidad de preguntas y estilo.-
+
+5- Se edita la page "Quienes Somos" y se crean bloques BEM (solo a fines del desafío), alguinas cosas vana  quedar pero me faltaban ideas de diseño para la cantidad de bloques que pedian.-
+
+6- Se saca la "/" de acuerdo a lo comentado en la entrega anterior.-
+
+7- No tengo Idea que pasa con el carrusel, yo lo veo perfecto acá (incluso responsive) sino no la hubiera mandado a la entrega, avisame si te sigue aparareciendo mal (estoy con chrome).-
+
+8- Hice todo con NODE (el problema que tuve en la clase complementaria que diste me costó encontrarlo pero era en la ruta del archivo para poder aplicarlo al trabajo ya hecho (gracias por enseñar node es más facil una vez que está todo instalado (hay un chiste con los dos paréntesis que acabo de anidar acá y el hecho que esté aprendiendo SASS pero es largo para escribir))), no es mucho pero lo apliqué a la page "Quienes Somos" en un párrafo con borde y fondo de color solido con opacidad.
+
+9- Se edita el scss anidando todo lo posible a medida que voy modificando el estilo.-
+
+10- Se crea un scss de colores y se llama la variable.-
+
+11 - Placeholder de "CARDS" en la page "Servicios".-
+
+
+CONSULTA
+
+1- Hola Maxi te mando por acá porque si no lo ves no estoy seguro que puedas constestarme. Hay algo un poquito más grande que el "container xxl" me parece que que le falta un poco mas de ancho
+y no se como hacerlo sin perder lo responsive.
+
+
+
+
+CLASE 09 y 10
+
+1- Se agregan containers para ser responsive.-
+
+2- Rework de la navbar con bootstrap.-
+
+3- Se agrega el carousel en main con tres imágenes.-
+
+4- Se acomoda en containers la seccion de "Representantes oficiales".-
+
+5- Se agrega en FAQ un acordión sin contenido.-
+
+6- Se le agrega fluid a las imágenes en el html.-
+
+7- Se acomoda container en la sección ofertas.-
+
+8- Footer es placeholder.
+
+
+
+CLASE 08
+
+1- Se cambia el logo de pantalla principal.-
+
+2- Se agrega gradient en la página "productos" experimentanto con su aplicación.-
+
+3- Barras de navegacion horizontales, con estilos un poco distintos entre "index" y "productos" (probando diseño para el definitivo).-
+
+4- Animación en banner de inicio con "animista".-
+
+5- Animación en barra de navegacion redactada propia.- (No definitiva).-
+
+6- Se ordenan las imagenes de ofertas con GRID.-
+
+7- Se acomoda el html con las distintas secciones en index resta el diseño en css pero quería dejar bien demarcadas cada seccion para la segunda entrega del trabajo final.- 
+
+ACLARACIONES
+
+- El css separado de "productos" es temporal para el cumplimientos de los desafíos; se va a unificar el logo principal y la barra como en el index.-
+- La animación de la barra de navegación no la saque de otra página web y es fea (jajaj) pero quería practicar redactarla para entender la relacion entre la keyframe con la otra parte.-
+- Hay un error en la validación que es adrede (pide un headind para la seccion "ofertas" pero lo puse afuera temporalmente) y las warnings son por los separadores comentados en el codigo que 
+me ayuda a distinguir secciones.-
+
+
+
+CLASE 07
+
+1- Inicio del formulario en página de "Contacto".-
+
+2- Se agregan imágenes a la sección productos para maquetar con "grids".-
+
+3- Se maqueta el menú con título, logo, y barra de navegación con grids en "productos".-
+
+4- Se agregan media queries pero para que quede todo igual visto desde desktop.-
+
+
+
+
+CLASE 06
+
+1- Submenú estilo hover removido (hasta aprender grid) ajuste de css.-
+
+2- Reciclado de código aplicado al HTML "karikal" que es un submenú de "Productos".(En preparación para que quede todo el html con flexbox para trabajo final).-
+
+3- Aplicación de Flex Box al título de la página.-
+
+4- Modificación de la Barra de Navegación con flexbox.-
+
+5- Se agregan imágenes de productos y se alinean en su totalidad con flexbox.-
+
+6- Cambios Varios en html "Productos" todos con flexbox (DESAFIO COMPLEMENTARIO)
+
+
+
+
+CHANGELOG (Clase 05)
+
+
+1 - Se agrega submenu en index y demás subpáginas en la barra de navegación (todo linkeado) en "Productos" y se ajusta css.-
+
+2 - Se ajusta margin, padding y tamaño de las imagenes en la sección ofertas agregando una imagen mas.-
+
+3 - Ajuste de tamaño de logo con CSS (antes estaba en HTML).-
+
+4 - Ajuste Título con "inline Block" para que quede en la misma línea del logo superior.- 
+
+5 - Barra de navegación horizontal con "submenu" estilo hover "Línea Karikal" (No quedó del todo bien pero funciona y tengo entendido igualmente se usan otras tecnicas antes que CSS para esto) (DESAFIO COMPLEMENTARIO)
+

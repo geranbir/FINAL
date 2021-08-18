@@ -1,0 +1,16 @@
+@mixin titulo-grande ( $centrado, $negrita, $color, $margin) {
+
+
+text-align: $centrado;
+font-weight: $negrita;
+color: $color;
+margin-top: 3rem;
+}
+
+
+@mixin texto-grande ($justificado, $padding)
+{
+text-align: $justificado;
+padding: $padding;
+
+}
